@@ -1,0 +1,1 @@
+const rapidJS = require("@rapidJS.org/core");

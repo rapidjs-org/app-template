@@ -1,0 +1,3 @@
+const APP = (_ => {
+	return {};
+})();

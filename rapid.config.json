@@ -1,0 +1,8 @@
+{
+    "extensionWhitelist": ["css"],
+    "gzipCompressList": ["html", "js", "css"],
+    "port": {
+        "http": 80,
+        "https": 443
+    }
+}

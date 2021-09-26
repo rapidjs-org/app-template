@@ -1,0 +1,19 @@
+{
+  "name": "app-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "scss": "node-sass -r --watch scss/ -o web/_assets/css/",
+    "start": "node server.js",
+    "start:dev": "node server.js -dev",
+    "test": "./node_modules/.bin/eslint --fix ./plug-ins/ ./web/_assets/js/"
+  },
+  "dependencies": {
+    "@rapidjs.org/core": "^3.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "node-sass": "^6.0.1"
+  }
+}
