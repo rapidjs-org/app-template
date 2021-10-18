@@ -1,10 +1,12 @@
 ## [rapidJS](https://rapidjs.org) application template
 
-Integrates SCSS transpilation and ESLint. 
+Integrates SCSS transpilation mechanism and ESLint.
+
+Run `npm update` to retrieve latest version of the rapidJS core package.
 
 ### Scripts
 
-| name        | Purpose                                                     |
+| Name        | Purpose                                                     |
 |:------------|:------------------------------------------------------------|
 | `start`     | *Start the core environment*                                |
 | `start:dev` | *Start the core environment in DEV MODE*                    |

@@ -1,5 +1,5 @@
 {
-    "extensionWhitelist": ["css"],
+    "extensionWhitelist": ["css", "svg", "png"],
     "gzipCompressList": ["html", "js", "css"],
     "port": {
         "http": 80,
