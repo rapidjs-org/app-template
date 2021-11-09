@@ -10,7 +10,7 @@
     "test": "./node_modules/.bin/eslint --fix ./plug-ins/ ./web/_assets/js/"
   },
   "dependencies": {
-    "@rapidjs.org/core": "3.0.3"
+    "@rapidjs.org/core": "3.3.0"
   },
   "devDependencies": {
     "eslint": "^7.21.0",
