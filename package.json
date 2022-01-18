@@ -4,13 +4,13 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "scss": "node-sass -r --watch scss/ -o web/_assets/css/",
+    "scss": "node-sass -r --watch scss/ -o web/assets/css/",
     "start": "node server.js",
     "start:dev": "node server.js -dev",
-    "test": "./node_modules/.bin/eslint --fix ./plug-ins/ ./web/_assets/js/"
+    "test": "./node_modules/.bin/eslint --fix ./plug-ins/ ./web/assets/js/"
   },
   "dependencies": {
-    "@rapidjs.org/core": "3.3.0"
+    "@rapidjs.org/core": "4.0.0"
   },
   "devDependencies": {
     "eslint": "^7.21.0",

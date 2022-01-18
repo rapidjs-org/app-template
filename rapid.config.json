@@ -1,8 +1,4 @@
 {
-    "extensionWhitelist": ["css", "svg", "png"],
-    "gzipCompressList": ["html", "js", "css"],
-    "port": {
-        "http": 80,
-        "https": 443
-    }
+    "extensionWhitelist": ["css", "svg"],
+    "gzipCompressList": ["html", "js", "css"]
 }
