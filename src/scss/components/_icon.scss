@@ -1,0 +1,7 @@
+.icon {
+    font-family: "iconfont";
+
+    &--info::before {
+        content: "\E001";
+    }
+}

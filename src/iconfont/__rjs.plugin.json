@@ -1,0 +1,6 @@
+{
+    "package": "@plugins.rapidjs.org/iconfont",
+    "config": {
+        "outPath": "/assets/fonts/iconfont.ttf"
+    }
+}

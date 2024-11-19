@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "iconfont";
+    src: url("/assets/fonts/iconfont.ttf");
+}
+
+footer {
+    a[target="_blank"]::after {
+        content: "\E000";
+        margin-left: 0.25em;
+        font-family: "iconfont";
+        font-size: 0.75em;
+    }
+}

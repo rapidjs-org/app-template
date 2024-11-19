@@ -1,0 +1,7 @@
+{
+    "package": "@plugins.rapidjs.org/scss",
+    "config": {
+        "inPath": "pages/",
+        "outPath": "assets/css/"
+    }
+}

@@ -1,6 +1,6 @@
 ## [rJS](https://rapidjs.org) Application Template
 
-Integrates with HTML page templates, SCSS, and script minification.
+Integrates with [HTML pageframe](https://github.com/rapidjs-org/plugin--pageframe), [SCSS](https://github.com/rapidjs-org/plugin--scss), and an [iconfont](https://github.com/rapidjs-org/plugin--iconfont).
 
 ### Setup
 
